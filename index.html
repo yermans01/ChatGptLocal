@@ -189,7 +189,7 @@
       let messages = [];
       let end = false;
       //se selecciona el modelo a ocupar
-      const SELECTED_MODEL = "gemma-2b-it-q4f16_1-MLC";
+      const SELECTED_MODEL = "Llama-3-8B-Instruct-q4f16_1-MLC";
       //carga local el modelo
       const engine = await CreateWebWorkerMLCEngine(
         new Worker("./worker.js", { type: "module" }),
