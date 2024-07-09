@@ -8,7 +8,6 @@ Chat con ia, que se carga en el navegador, este ocupa la tecnologia de web Gpu, 
 
 ## Visuales
 
-![Chat cargando](https://i.ibb.co/Xk8Qd1J/cargando.jpg)
 ![Chat cargado](https://i.ibb.co/WBxVBgT/cargado.jpg)
 
 ## Despliegue 📦
